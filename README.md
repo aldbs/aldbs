@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldbs
 - 👀 I’m interested in web & AI
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me on twitter : @Ale_dbs
 
