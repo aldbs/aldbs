@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @aldbs
-- 👀 I’m interested in web & AI
-- 🌱 I’m currently learning Flask
-- 💞️ I’m looking to collaborate on various projects
+- 👋 Hi, I’m @aldbs, Head of Data
+- 👀 I’m interested in Data Eng, Data Analytics, ML & AI
 - 📫 How to reach me on twitter : @Ale_dbs
 
 <!---
